@@ -5,10 +5,12 @@ this is a fucking toys template, fuck the world
 
 ## change some fucking things
 
-### step 1: Replace Your Fucking Path in `vite.config.js`
+### step 1: Replace Your Fucking Path in `.env`
 
 ```
-base: "/replace-you-fucking-path-here/",
+VITE_APP_TITLE = 吃了么您内
+
+VITE_PUBLISH_PATH = /replace-your-fucking-path-here/
 ```
 
 ### step 2: Auto Git Fucking Hub Pages
